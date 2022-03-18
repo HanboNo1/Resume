@@ -1,12 +1,12 @@
 var config = {
     /*在这里配置你的基本信息，所有数据以字符串形式给出*/
-    name: "Shaoyu Dai",
+    name: "**",
     sex: "Male",
     age: "23",
-    phone: "(+1) 4138244354",
-    email: "shaoyudai@umass.edu",
-    address: "Sunderland, MA, United States",
-    linkedIn: "<a href='https://www.linkedin.com/in/shaoyu-dai-894696230/' target='_blank' rel='noopener noreferrer'>My LinkedIn</a>",
+    phone: "**",
+    email: "**@**",
+    address: "**",
+    linkedIn: "<a href='****' target='_blank' rel='noopener noreferrer'>My LinkedIn</a>",
     excpect_work: "Software Development Engineering",
 
 
